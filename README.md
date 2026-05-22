@@ -1,4 +1,4 @@
-# Dino Jump Cam
+# Jump To Key
 
 Play the Chrome dinosaur game by jumping in front of your webcam.
 
